@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1GR9SCwNP5yF66hSFHEf4bydjlD4DNz1s
 """
 
-def showHangMan(blood) :
+def show_hang_man(blood) :
 
   img = [
   [
